@@ -52,7 +52,7 @@
         
         
         
-      <context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">2</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">3</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">4</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">5</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">9</context></context-group></trans-unit><trans-unit id="aa72e43c4cf5dc405359ac788e199b261d856d95" datatype="html">
+      <context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">2</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">3</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">4</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">5</context></context-group><context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">10</context></context-group></trans-unit><trans-unit id="aa72e43c4cf5dc405359ac788e199b261d856d95" datatype="html">
         <source>Kitty</source><target state="final">Kitty</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
@@ -68,25 +68,23 @@
         </context-group>
         <note priority="1" from="description">ok</note>
         <note priority="1" from="meaning">think about it</note>
+      </trans-unit><trans-unit id="61b450dc441a02f9cc53e57302690549d1a7a0f7" datatype="html">
+        <source>Kitty</source><target state="final">Kitty</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="meaning">think about it if you like</note>
       </trans-unit><trans-unit id="c61cd7ebded9dae486ae3611c112d349112a12a3" datatype="html">
         <source>Floofy</source><target state="final">Floofy</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
-          <context context-type="linenumber">10</context>
-        </context-group>
-      </trans-unit><trans-unit id="12d3db10fe73d0c63b4eb334d38d2765e39d866e" datatype="html">
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">11</context></context-group></trans-unit><trans-unit id="12d3db10fe73d0c63b4eb334d38d2765e39d866e" datatype="html">
         <source>Poofy</source><target state="final">Poofy</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
-          <context context-type="linenumber">11</context>
-        </context-group>
-      </trans-unit><trans-unit id="461b0f6250f63b7453c87be45b76630006a4c401" datatype="html">
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">12</context></context-group></trans-unit><trans-unit id="461b0f6250f63b7453c87be45b76630006a4c401" datatype="html">
         <source>Drooly</source><target state="final">Drooly</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
-          <context context-type="linenumber">12</context>
-        </context-group>
-      </trans-unit>
+        
+      <context-group purpose="location"><context context-type="sourcefile">src/app/puppy/puppy.component.html</context><context context-type="linenumber">13</context></context-group></trans-unit>
     </body>
   </file>
 </xliff>
