@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="en-US">
+    <body>
+      <trans-unit id="1" datatype="html">
+        <source>
+    1
+  </source><target state="new">
+    123456789
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2" datatype="html">
+        <source>
+    2
+  </source><target state="new">
+    23456789
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3" datatype="html">
+        <source>
+    3
+  </source><target state="new">
+    Hehehehehhehehehhehehehe
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="puppy" datatype="html">
+        <source>puppy works!</source><target state="new">puppy works!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="551f9456a9150c4b37b72ac0cba20ae7250204ff" datatype="html">
+        <source>Kitty</source><target state="new">REALLY BIG PUPPY YAY</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit><trans-unit id="c61cd7ebded9dae486ae3611c112d349112a12a3" datatype="html">
+        <source>Floofy</source><target state="new">Floofy</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit><trans-unit id="12d3db10fe73d0c63b4eb334d38d2765e39d866e" datatype="html">
+        <source>Poofy</source><target state="new">Poofy le poof</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit><trans-unit id="461b0f6250f63b7453c87be45b76630006a4c401" datatype="html">
+        <source>Drooly</source><target state="new">Drooly</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/puppy/puppy.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
