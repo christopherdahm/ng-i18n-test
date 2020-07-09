@@ -1,13 +1,32 @@
 <p i18n="@@puppy">puppy works!</p>
+
+<p i18n>
+  Puppy code is {
+  num,
+  select,
+  other {{{num}}}
+  }
+</p>
+<button (click)="num = num - 1">Minus</button>
+<button (click)="num = num + 1">Plus</button>
+
+<br><br><br>
+
+
 <p i18n>Kitty</p>
-<p i18n>Kitty</p>
-<p i18n>Kitty</p>
-<p i18n>Kitty</p>
-<p i18n="think about it|ok">Kitty</p>
 <p i18n="think about it|ok">Kitty</p>
 <p i18n="think about it|no">Kitty</p>
 <p i18n="think about it if you like|">Kitty</p>
-<p i18n>Kitty</p>
 <p i18n>Floofy</p>
 <p i18n>Poofy</p>
 <p i18n>Drooly</p>
+<p i18n="@@empty">_</p>
+
+<app-puppy-translations [text]="'1'"></app-puppy-translations>
+<app-puppy-translations [text]="'2'"></app-puppy-translations>
+<app-puppy-translations [text]="'3'"></app-puppy-translations>
+<app-puppy-translations [text]="'4'"></app-puppy-translations>
+<app-puppy-translations></app-puppy-translations>
+<app-puppy-translations [text]="'88'"></app-puppy-translations>
+
+<app-listed-translation></app-listed-translation>

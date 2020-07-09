@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PuppyComponent implements OnInit {
 
+  num = 0;
+
   constructor() { }
 
   ngOnInit(): void {

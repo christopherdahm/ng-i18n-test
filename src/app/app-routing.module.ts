@@ -9,7 +9,7 @@ const routes: Routes = [
     path: 'test',
     loadChildren: () => import('./test-separation/test-separation.module').then(m => m.TestSeparationModule)
   },
-  { path: '**', redirectTo: 'nothing-special' },
+  { path: '**', redirectTo: 'test' },
 ];
 
 @NgModule({
